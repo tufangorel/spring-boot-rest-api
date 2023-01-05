@@ -1,4 +1,4 @@
-# Spring Boot Rest Api
+# Spring Boot Rest API
  - Save a new transaction item
  - Get statistics about saved transaction items for the last 60 seconds
  
